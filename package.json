@@ -1,0 +1,13 @@
+{
+  "title": "Resource Finder",
+  "name": "resource-finder-firefox",
+  "version": "0.5.0",
+  "description": "An add-on used to search Bower for assets to use with CodePen and apps like it.",
+  "main": " ",
+  "author": "Hipsterbrown",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
