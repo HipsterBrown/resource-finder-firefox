@@ -24,11 +24,10 @@ let App = React.createClass({
   },
 
   componentDidMount() {
-    let self = this;
-    let cache = self.fetchCache();
+    let cache = this.fetchCache();
 
     if( cache ) {
-      cache.forEach(self.parseBower);
+      cache.forEach(this.parseBower);
     }
   },
 

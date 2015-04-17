@@ -2,3 +2,5 @@ node_modules/
 .DS_Store
 *.swp
 *.zip
+data/app.js
+data/app.css
